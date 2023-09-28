@@ -1,13 +1,25 @@
 
+.logo span { 
+    color: #4D5AE5;  
+}
 
-
-.logo {
-    text-decoration: none;
+.logo{
     color: #2E2F42;
+    font-family: raleway;
+    text-decoration: none;
+    font-size: 18px;
 }
-.logo span{
-    color: #4d5ae5;
+body{
+    font-family: roboto;
 }
-body {
-    font-family: ;
+
+h1{
+    text-align: center;
+    color: #FFF;
+}
+
+button{
+    background-color: #4D5AE5;
+    color: white;
+   
 }
